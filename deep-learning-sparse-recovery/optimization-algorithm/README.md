@@ -25,5 +25,7 @@ Javanmard, Adel, and Andrea Montanari. "State evolution for general approximate 
 
 Donoho, David L., Arian Maleki, and Andrea Montanari. "Message-passing algorithms for compressed sensing." Proceedings of the National Academy of Sciences 106.45 (2009): 18914-18919.
 
+Montanari, Andrea. "Graphical models concepts in compressed sensing." Compressed Sensing: Theory and Applications (2012): 394-438.
+
 ## OMP (orthogonal matching pursuit)
 Zhang, Tong. "Sparse recovery with orthogonal matching pursuit under RIP." IEEE Transactions on Information Theory 57.9 (2011): 6215-6221.
