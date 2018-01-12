@@ -27,5 +27,7 @@ Donoho, David L., Arian Maleki, and Andrea Montanari. "Message-passing algorithm
 
 Montanari, Andrea. "Graphical models concepts in compressed sensing." Compressed Sensing: Theory and Applications (2012): 394-438.
 
+Ma, Junjie, and Li Ping. "Orthogonal AMP." IEEE Access 5 (2017): 2020-2033.
+
 ## OMP (orthogonal matching pursuit)
 Zhang, Tong. "Sparse recovery with orthogonal matching pursuit under RIP." IEEE Transactions on Information Theory 57.9 (2011): 6215-6221.
