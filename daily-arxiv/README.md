@@ -1,4 +1,5 @@
 # daily-arxiv
+This repository collects daily interesting archive paper in deep learning, machine learning, network, and high dimensional data analysis.
 
 2018-01-17
 
