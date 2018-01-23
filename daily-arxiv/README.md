@@ -21,3 +21,12 @@ This repository collects daily interesting archive paper in deep learning, machi
 
 [Overcoming the vanishing gradient problem in plain recurrent networks](https://arxiv.org/abs/1801.06105)
 
+2018-01-22
+
+[Deep Hidden Physics Models: Deep Learning of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1801.06637)
+
+[Curvature-based Comparison of Two Neural Networks](https://arxiv.org/abs/1801.06801)
+
+[DiscrimNet: Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/abs/1801.07230)
+
+[EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
