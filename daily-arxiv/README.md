@@ -30,3 +30,12 @@ This repository collects daily interesting archive paper in deep learning, machi
 [DiscrimNet: Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks](https://arxiv.org/abs/1801.07230)
 
 [EffNet: An Efficient Structure for Convolutional Neural Networks](https://arxiv.org/abs/1801.06434)
+
+2018-01-23
+
+[Statistically Motivated Second Order Pooling](https://arxiv.org/abs/1801.07492)
+
+[Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://arxiv.org/pdf/1801.07606.pdf)
+
+[Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling](https://arxiv.org/abs/1801.07650)
+
