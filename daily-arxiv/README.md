@@ -1,5 +1,5 @@
 # daily-arxiv
-This repository collects daily interesting archive paper in deep learning, machine learning, network, and high dimensional data analysis.
+This repository collects daily interesting archive paper in deep learning, machine learning, network, and high dimensional data analysis. 
 
 2018-01-17
 
@@ -39,3 +39,6 @@ This repository collects daily interesting archive paper in deep learning, machi
 
 [Dynamic Optimization of Neural Network Structures Using Probabilistic Modeling](https://arxiv.org/abs/1801.07650)
 
+2018-01-30
+
+[Certifiable Distributional Robustness with Principled Adversarial Training](https://arxiv.org/pdf/1710.10571.pdf)
