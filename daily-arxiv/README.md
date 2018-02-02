@@ -42,3 +42,14 @@ This repository collects daily interesting archive paper in deep learning, machi
 2018-01-30
 
 [Certifiable Distributional Robustness with Principled Adversarial Training](https://arxiv.org/pdf/1710.10571.pdf)
+
+2018-02-01
+
+[Interpreting CNNs via Decision Trees](https://arxiv.org/abs/1802.00121)
+
+[Spherical CNNs](https://arxiv.org/abs/1801.10130)
+
+[The Intriguing Properties of Model Explanations](https://arxiv.org/abs/1801.09808)
+
+
+
