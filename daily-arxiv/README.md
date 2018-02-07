@@ -51,5 +51,9 @@ This repository collects daily interesting archive paper in deep learning, machi
 
 [The Intriguing Properties of Model Explanations](https://arxiv.org/abs/1801.09808)
 
+2018-02-07
+
+[Visual Interpretability for Deep Learning: a Survey](https://arxiv.org/abs/1802.00614)
+
 
 
