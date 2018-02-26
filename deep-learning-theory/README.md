@@ -1,5 +1,9 @@
 # deep-learning-theory
 
+Professor Joan Bruna's course about Mathematics of Deep Learning
+
+Course website: https://github.com/joanbruna/MathsDL-spring18
+
 1. Invariant Scattering Convolution Networks -Joan Bruna and Stéphane Mallat-2012.03.08	
 
 2. Visualizing and Understanding Convolutional Networks-Matthew D. Zeiler，Rob Fergus-2013.11.28	
