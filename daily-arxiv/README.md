@@ -56,4 +56,5 @@ This repository collects daily interesting archive paper in deep learning, machi
 [Visual Interpretability for Deep Learning: a Survey](https://arxiv.org/abs/1802.00614)
 
 
-
+2018-03-05
+[Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909)
