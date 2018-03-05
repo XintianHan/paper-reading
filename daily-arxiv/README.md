@@ -57,4 +57,5 @@ This repository collects daily interesting archive paper in deep learning, machi
 
 
 2018-03-05
+
 [Understanding the Loss Surface of Neural Networks for Binary Classification](https://arxiv.org/abs/1803.00909)
